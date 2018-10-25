@@ -7,3 +7,5 @@ json_extract.py extracts the information that are needed by the VOC format from 
 json2xml.py reads the information from the extracted json file and transfer the information into xml format, each picture corresponds to one xml file
     edit the file_path (line 59) to where you stored the pictures of BDD100K
     
+The PrettyXml function refers to the one in the link followed:
+https://www.cnblogs.com/labc/articles/5176139.html
